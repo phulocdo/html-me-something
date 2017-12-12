@@ -5,6 +5,31 @@
 
 body {
   background-image: url('images/school.png');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
+
+}
+
+html, header, footer, body {
+  padding: 0;
+  margin: 5;
+  border: 0;
+  font-size: 100%;
+
+}
+
+header, footer, section{
+  display: block;
+
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+
+}
+
+h1.header {
+  text-align: center;
+  border-bottom-style: solid;
 
 }
