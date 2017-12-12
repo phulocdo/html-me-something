@@ -30,6 +30,11 @@ table {
 
 h1.header {
   text-align: center;
+  padding-top: 50px;
   border-bottom-style: solid;
 
+}
+
+#email {
+  color: blue;
 }
